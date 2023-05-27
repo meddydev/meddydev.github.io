@@ -1,0 +1,32 @@
+---
+layout: post
+title: "What I plan on writing about"
+description: "Things I plan on writing about"
+comments: true
+keywords: "Personal Blogging, Software Engineering Career, Amazon Software Development Engineer, Web Development Bootcamp, IT Degree Apprenticeship, Career Shift to Tech, Software Engineering Apprenticeship at Amazon, Skincare Journey, Accutane Experience, Overcoming Acne, Skin Insecurity, Skincare Treatments, Life Lessons, Self Reflection, Journalling Thoughts, Personal Growth and Development, Life after Economics at London School of Economics, Honest Personal Blogging, Vulnerability in Blogging, Personal Experiences and Insights"
+---
+
+Welcome to my website and my first blog post! I don't know exactly what I'm going to be writing about in the future, I just know that as of late I've developed an urge to get things off my mind and this will be my platform to do that. Hopefully some of it will be it useful to you, reader. If not useful then perhaps relatable. If not relatable then maybe at least interesting to get an insight into the psyche of a random person. Worst case, I'm pretty sure writing posts will act as a sort of journalling exercise for me and will help me clear my head and understand the decisions I make.
+
+Having said that, here's some topics I do plan on touching on.
+
+## Becoming A Software Engineer + Associated Insecurities
+
+I'll save my oddball career history for another time; all you need to know for now is that I got into coding in April of 2022. I self-studied for a month, did a web development bootcamp from May until September during which I applied for Amazon's SDE (Software Development Engineer) Degree Apprenticehsip scheme. I was lucky enough to get accepted onto the scheme and have been working at Amazon since September to the present day (while also studying for an IT degree as part of the apprenticeship). For those not acquainted with UK apprenticeship schemes, it's basically an alternative to going to university where you 'learn on the job' to gain relevant skills for the role and you also spend 1 day a week not working and instead studying for a qualification. Normally people will do these schemes straight after secondary school / high school (as I said, as an alternative to university) but these schemes are open to anyone who doesn't yet have much experience in the field. I was one such person (amongst people of all ages and walks of life: school leavers, career changers and the like). I thought it'd be a good way to get my foot in the door and a great experience overall. I get to learn from very smart, tenured engineers at one of the biggest names in tech and have a decent stable income for the 3 years of the scheme and, if I do well, I can convert the apprenticeship into a full-time junior developer role at the end of the scheme which would be very tasty indeed.
+
+This career shift has been exciting and stressful and lots of other things. I particularly tend to get anxious about my rate of progress. I'm proud of a lot of the things I've managed to accomplish but also feel down about the things that I'm yet to accomplish. This is getting long, so I'll save it for a full post, but I'll definitely dig into these feelings and share my career journey with you. I certainly have fun reading other people's musings on their careers in tech so I'm exciting about adding my thoughts into the conversation.
+
+## Skincare
+
+I had acne as a teen. I then took **Accutane** (an intense presciption medication for the treatment of acne) for a year, after which my acne went away. But I was left with some redness and dryness and my skin didn't look as glowy and perfect as I thought it would do once my acne had cleared up. I haven't seen a lot of deep dives about skin insecurity on the web. A few reddit posts here and there but I never felt properly represented. I think about my skin all the time; I don't know if it's vanity or if it's valid to care about how your face looks because it's what everyone sees, it's the way everyone perceives you irl and it can form a large part of people's first impression of you.
+
+I've been on a lengthy quest to get good skin - like I said it may just be vanity (perhaps exploring the reasons behind my obsession with it is a good blog post topic) but in any case, I'm pretty immersed in the world of skincare and treatments and this is a journey I want to share with you as well.
+
+## Life + Learnings
+
+Couldn't think of a better heading for this section, apologies. Like I mentioned earlier, it might be cathartic for me to occasionally blog about thoughts and feelings and all that complicated business. I have a tendency to think thoughts and feel feelings wihtout properly processing them so I'll sometimes dump that stuff onto here. I'll try my best to be articulate and not too wishy washy: both to help me understand myself better and hopefully to provide more utility to you. It won't necessarily be depressing stuff, I might take up backgammon and feel really present and recommend that you pick up backgammon. I don't know. Maybe I'll reconnect with a friend and wax lyrical about the joy of it. Maybe I'll be sad because I'm thinking about something crap that happened to me a while ago and I'll need to vent. I might read an interesting book and give you the highlights. I think what I'm saying is that **Life and Learnings** covers everything that isn't my software engineering career or skincare. Okay there we go.
+
+
+One quick thing before I finish, I'm going to try my best to be myself and be honest on this site but I'm already finding it hard. Vulnerability is tough. In my **About Me** section I was going to add the joke "I studied Economics at The London School of Economics **(though truthfully I don't recall studying all that much)**". I know, zing! I didn't add this, even though I wanted to. It felt like a 'me' kind of thing to say, it has a bit of truth to it and I don't know, it just felt right. But I didn't add it because I was scared someone would see it and not be impressed. A current or future employer for example. It probably seems silly but I did really grapple with it. I think that's going to be something I have a lot of internal conflict over (how much of myself am I comfortable revealing). Anyway that was just a little brain dump before I end this post but like I said, I'll endeavour to be as open as I can be.
+
+If you've read all the way to down here, thanks! Hit me up on my socials, I'll always be open to connecting with folk.
