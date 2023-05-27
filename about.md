@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name's Ahmed; I made this website because I think it's cool to have your own piece of real estate on the web. Also I sometimes just want to scream into the void and this serves as good place to do that.
+I'm an 'Apprentice Software Development Engineer' at Amazon based in the UK. I studied Economics at The London School of Economics (though truthfully I don't recall studying all that much). I was born in 2000. Those are the classic factoids people seem to care about. I like football (partaking in + watching), climbing (partaking in + watching), TV and film (watching), skincare and I'm also a tech enthusiast. I always struggle when writing bios; it seems like a gargantuan task to summarise your essence into a few short sentences whilst also trying to seem cool / unique / {insert external validation metric here}. Not sure if I've done a great job of it here but I probably shouldn't care so much - that's me for now.
